@@ -4,7 +4,7 @@ By: Ella Faruchi, Rotem David, Matar Tal, and Asif Charazi
 ### Project Description
 For our project, we created a system that works with a home chicken coop, and alerts when there is an egg to be picked up from the coop.
 The goal of the project was to make life a bit easier, by eliminating the need to check the coop for new eggs - sometimes a couple times a day - withount knowing if there is going to be an egg, or even multiple eggs. By using different sensors, we created a system that detects when there are eggs in the laying box, and can tell the person in the kitchen if and how many eggs are there currently. Because the coop we are working with has three chickens, our system can detect up to three eggs, but could be easily tweaked to detect as many as neccessary.
-![IMG_5629](https://github.com/user-attachments/assets/8c9b0f0a-9997-459c-8ce5-abe9c2d339b0)
+![IMG_5629](https://github.com/user-attachments/assets/8c9b0f0a-9997-459c-8ce5-abe9c2d339b0)<img src="image.png" width="200" height="100">
 
 
 ### The Sensors
