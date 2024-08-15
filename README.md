@@ -1,5 +1,5 @@
 # Agrotech Lab 2024 
-## Final Project- *The Eggs-periment
+## Final Project- *The Eggs-periment*
 By: Ella Faruchi, Rotem David, Matar Tal, and Asif Charazi
 ### Project Description
 For our project, we created a system that works with a home chicken coop, and alerts when there is an egg to be picked up from the coop.
