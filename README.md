@@ -13,6 +13,7 @@ The goal of the project was to make life a bit easier, by eliminating the need t
 **Distance Sensor-** sits at the back of the laying box (facing forward) and collects information about the chickens approaching the laying box.  
 **Infra-red Thermometer-** sits inside the laying box and senses through heat when the chickens are inside the laying box.  
 ![IMG_5605](https://github.com/user-attachments/assets/c1049c27-5826-408a-97ec-08702865e763)
+Distance sensor and infra red thermometer are in the white box on the right, the motion sensor is in the box at the top, and the weight is underneath the hay.
 
 ### Input-Output
 Each sensor has a slightly different job, the weight being the one we are mainly counting on to give us information about weather there is an egg to be collected or not. The other sensors' job is to collect information, which after some time we hope that we will be able to calibrate with the information that we are getting from the weight for future use of the other sensors independently or as a backup for one another. For example, we hope to be able to calibrate the amount of time a chicken sits in the laying box to the weight sensing that an egg has been layed. In addition, the sensors can help us learn about the daily habits of the chickens by giving us a database of general information about them. We could use this database to track things such as changes in egg laying habits following a diet change.
