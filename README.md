@@ -8,7 +8,7 @@ The goal of the project was to make life a bit easier, by eliminating the need t
 
 
 ### The Sensors
-**Weight-** the weight sits in the chickens' laying box, covered by cardboard and some hay. When it detects any weight above 2 Kg, aka a chicken, it ignores it. After the chicken has gotten out and only the egg remains, the detected weight is 40-60 grams and a signal is sent to the screen in the kitchen to announce that there is an egg in the coop. If the detected weight is 80-120 grams or 120-180 grams, the screen will display that there are two or three eggs accordingly.  
+**Weight-** the weight sits in the chickens' laying box, covered by cardboard and some hay. When it detects any weight above 210 grams (three eggs), it ignores it. After the chicken has gotten out and only the egg remains, the detected weight is 50-75 grams and a signal is sent to the screen in the kitchen to announce that there is an egg in the coop. If the detected weight is 75-140 grams or 140-210 grams, the screen will display that there are two or three eggs accordingly.  
 **Motion Sensor-** sits at the opening of the laying box and recognizes when a chicken enters the box. Sends a signal to the screen inside the house to write a message that there is currently a chicken in the laying box.  
 **Distance Sensor-** sits at the back of the laying box (facing forward) and collects information about the chickens approaching the laying box.  
 **Infra-red Thermometer-** sits inside the laying box and senses through heat when the chickens are inside the laying box.  
