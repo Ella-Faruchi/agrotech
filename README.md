@@ -26,7 +26,10 @@ All of the sensors in the coop are connected to an ESP32, which sends informatio
 [The code for the Receiver ESP](https://github.com/Ella-Faruchi/agrotech/blob/main/ESP_Receiver.ino)
 
 ### Demonstration
-po yihiye video
+**Input:
+
+https://github.com/user-attachments/assets/0d008e46-306b-4b73-bede-3b7e777091bc
+
 
 
 ### Thank-you!
