@@ -13,6 +13,7 @@ The goal of the project was to make life a bit easier, by eliminating the need t
 **Motion Sensor-** sits at the opening of the laying box and recognizes when a chicken enters the box. Sends a signal to the screen inside the house to write a message that there is currently a chicken in the laying box.  
 **Distance Sensor-** sits at the back of the laying box (facing forward) and collects information about the chickens approaching the laying box.  
 **Infra-red Thermometer-** sits inside the laying box and senses through heat when the chickens are inside the laying box.  
+
 ![IMG_5605](https://github.com/user-attachments/assets/c1049c27-5826-408a-97ec-08702865e763)
 Distance sensor and infra red thermometer are in the white box on the right, the motion sensor is in the box at the top, and the weight is underneath the hay.
 
