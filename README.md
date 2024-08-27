@@ -21,6 +21,7 @@ Distance sensor and infra red thermometer are in the white box on the right, the
 Each sensor has a slightly different duty, the weight being the one we are mainly counting on to give us information about whether there is an egg to be collected or not. The other sensors are designed to collect data, which we aim to eventually calibrate with the weight measurements. Our goal is to enable the independent use of these sensors in the future or to have them serve as backups for one another. For example, we hope to be able to calibrate the amount of time a chicken sits in the laying box to the weight sensing that an egg has been laid. In addition, the sensors can help us learn about the daily habits of the chickens by giving us a database of general information about them. We could use this database to track things such as changes in egg laying habits following a diet change.
 
 All of the sensors in the coop are connected to an ESP32, which sends information to a second ESP32 which is situated inside the house, via ESP-NOW. The second ESP is connected to a screen that displays real-time information that the sensors are picking up and the amount of eggs currently in the coop. 
+
 ![IMG_5644](https://github.com/user-attachments/assets/e49d8017-5211-42c5-917b-97d601263c79)
 
 
