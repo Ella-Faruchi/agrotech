@@ -37,7 +37,7 @@ Output:
 
 ![output sketch](https://github.com/user-attachments/assets/5df3257c-9ba3-4e7f-8f5a-d00d49a56881)
 
-*
+*Please disregard the black lines on the ESP microcontroller—they are not connected to any components.
 ### Thank-you!
 To the Agro-tech course team and of course to our wonderful chickens!
 
