@@ -30,9 +30,11 @@ All of the sensors in the coop are connected to an ESP32, which sends informatio
 
 ### Hardware sketches:
 Input:
+
 ![input sketch](https://github.com/user-attachments/assets/7934250a-13e3-408b-87c5-e1971fb023ad)
 
 Output:
+
 ![output sketch](https://github.com/user-attachments/assets/5df3257c-9ba3-4e7f-8f5a-d00d49a56881)
 
 ### Thank-you!
