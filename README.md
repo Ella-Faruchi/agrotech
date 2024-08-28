@@ -45,6 +45,7 @@ Input:
 [![Watch the video](https://img.youtube.com/vi/Jp-pv-7Gjvw/0.jpg)](https://www.youtube.com/watch?v=Jp-pv-7Gjvw)
 
 Output:
+
 [![Watch the video](https://img.youtube.com/vi/6JZO5hSBb0I/0.jpg)](https://www.youtube.com/watch?v=6JZO5hSBb0I)
 
   
