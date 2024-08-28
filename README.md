@@ -39,8 +39,11 @@ Output:
 
 *Please disregard the black lines on the ESP microcontroller—they are not connected to any components.
 
-###  Demonstration:
-<video scr="https://www.youtube.com/watch?v=Jp-pv-7Gjvw"> 
+### Demonstration:
+
+[![Watch the video](https://img.youtube.com/vi/Jp-pv-7Gjvw/0.jpg)](https://www.youtube.com/watch?v=Jp-pv-7Gjvw)
+
+  
 ### Thank-you!
 To the Agro-tech course team and of course to our wonderful chickens!
 
